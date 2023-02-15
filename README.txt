@@ -1,0 +1,1 @@
+La carpeta de Release tiene el binario bueno
