@@ -1,0 +1,28 @@
+C:\Users\AULA_DEMO\Documents\Workspace\ArmDuino Base Funciona\ArmDuino Base\bin\Release\KinectInteraction180_64.dll
+C:\Users\AULA_DEMO\Documents\Workspace\ArmDuino Base Funciona\ArmDuino Base\bin\Release\KinectInteraction180_32.dll
+C:\Users\AULA_DEMO\Documents\Workspace\ArmDuino Base Funciona\ArmDuino Base\bin\Release\ArmDuino Base.exe.config
+C:\Users\AULA_DEMO\Documents\Workspace\ArmDuino Base Funciona\ArmDuino Base\bin\Release\ArmDuino Base.exe
+C:\Users\AULA_DEMO\Documents\Workspace\ArmDuino Base Funciona\ArmDuino Base\bin\Release\ArmDuino Base.pdb
+C:\Users\AULA_DEMO\Documents\Workspace\ArmDuino Base Funciona\ArmDuino Base\bin\Release\Microsoft.Kinect.dll
+C:\Users\AULA_DEMO\Documents\Workspace\ArmDuino Base Funciona\ArmDuino Base\bin\Release\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\AULA_DEMO\Documents\Workspace\ArmDuino Base Funciona\ArmDuino Base\bin\Release\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\AULA_DEMO\Documents\Workspace\ArmDuino Base Funciona\ArmDuino Base\bin\Release\Microsoft.Kinect.xml
+C:\Users\AULA_DEMO\Documents\Workspace\ArmDuino Base Funciona\ArmDuino Base\obj\Release\ArmDuino Base.csprojAssemblyReference.cache
+C:\Users\AULA_DEMO\Documents\Workspace\ArmDuino Base Funciona\ArmDuino Base\obj\Release\Interop.KinectManagement.dll
+C:\Users\AULA_DEMO\Documents\Workspace\ArmDuino Base Funciona\ArmDuino Base\obj\Release\ArmDuino Base.csproj.ResolveComReference.cache
+C:\Users\AULA_DEMO\Documents\Workspace\ArmDuino Base Funciona\ArmDuino Base\obj\Release\MainWindow.g.cs
+C:\Users\AULA_DEMO\Documents\Workspace\ArmDuino Base Funciona\ArmDuino Base\obj\Release\App.g.cs
+C:\Users\AULA_DEMO\Documents\Workspace\ArmDuino Base Funciona\ArmDuino Base\obj\Release\ArmDuino Base_Content.g.cs
+C:\Users\AULA_DEMO\Documents\Workspace\ArmDuino Base Funciona\ArmDuino Base\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\AULA_DEMO\Documents\Workspace\ArmDuino Base Funciona\ArmDuino Base\obj\Release\ArmDuino Base_MarkupCompile.cache
+C:\Users\AULA_DEMO\Documents\Workspace\ArmDuino Base Funciona\ArmDuino Base\obj\Release\ArmDuino Base_MarkupCompile.lref
+C:\Users\AULA_DEMO\Documents\Workspace\ArmDuino Base Funciona\ArmDuino Base\obj\Release\MainWindow.baml
+C:\Users\AULA_DEMO\Documents\Workspace\ArmDuino Base Funciona\ArmDuino Base\obj\Release\ArmDuino Base.g.resources
+C:\Users\AULA_DEMO\Documents\Workspace\ArmDuino Base Funciona\ArmDuino Base\obj\Release\ArmDuino_Base.Properties.Resources.resources
+C:\Users\AULA_DEMO\Documents\Workspace\ArmDuino Base Funciona\ArmDuino Base\obj\Release\ArmDuino Base.csproj.GenerateResource.cache
+C:\Users\AULA_DEMO\Documents\Workspace\ArmDuino Base Funciona\ArmDuino Base\obj\Release\ArmDuino Base.csproj.CopyComplete
+C:\Users\AULA_DEMO\Documents\Workspace\ArmDuino Base Funciona\ArmDuino Base\obj\Release\ArmDuino Base.exe
+C:\Users\AULA_DEMO\Documents\Workspace\ArmDuino Base Funciona\ArmDuino Base\obj\Release\ArmDuino Base.pdb
+C:\Users\AULA_DEMO\Documents\Workspace\ArmDuino Base Funciona\ArmDuino Base\bin\Release\br_aula_inst_final_30fps.wmv
+C:\Users\AULA_DEMO\Documents\Workspace\ArmDuino Base Funciona\ArmDuino Base\bin\Release\br_aula_inst_final_60fps.wmv
+C:\Users\AULA_DEMO\Documents\Workspace\ArmDuino Base Funciona\ArmDuino Base\bin\Release\br_aula_inst_charlas.wmv
